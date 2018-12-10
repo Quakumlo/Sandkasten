@@ -7,6 +7,8 @@ public class HalloWelt {
 		System.out.println("NO Yes NO");
 		System.out.println("   ");
 		System.out.println("zeile 23");
+		System.out.println("merge conflict 2");
+
 
 	}
 
