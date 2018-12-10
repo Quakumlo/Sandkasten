@@ -6,6 +6,7 @@ public class HalloWelt {
 		System.out.println("Hallo Welt");
 		System.out.println("NO Yes NO");
 		System.out.println("   ");
+		System.out.println("merge conflict 2");
 
 	}
 
